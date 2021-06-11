@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
 
 ## Talking about Personal Stuffs:
--🔭 I’m currently  a student at Madanapalle Institute of Technology.
+- 🔭 I’m currently  a student at Madanapalle Institute of Technology.
 - 🌱 I’m currently a student co-ordinator for Mits Social Responsibility Club.
 - 👯 I’m looking to collaborate on Data Science & Web Development.
 - 🤔 I’m looking for help for an Internship.
 - 📫 How to reach me: <a href="mailto:bannusrujan2605@gmail.com">bannusrujan2605@gmail.com</a>
+- 🟦  <a href="https://www.linkedin.com/in/harisrujan2605/">LINKEDIN</a>
 <!-- - 📝[Resume](link-here) -->
 
 ## Languages and Tools:
