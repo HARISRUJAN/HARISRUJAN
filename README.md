@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science & Web Development.
 - 🤔 I’m looking for help for an Internship.
 - 📫 How to reach me: <a href="mailto:bannusrujan2605@gmail.com">bannusrujan2605@gmail.com</a>
-- 🟦  <a href="https://www.linkedin.com/in/harisrujan2605/">LINKEDIN</a>
+- 🟦  <a href="https://www.linkedin.com/in/harisrujan2605/">Linkedin</a>
+- 📝  <a href="https://harisrujan.github.io/harisrujan-bannu.io/">Portfolio</a>
 <!-- - 📝[Resume](link-here) -->
 
 ## Languages and Tools:
