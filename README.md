@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
 
 ## Talking about Personal Stuffs:
-- 🔭 I’m currently  a student at Madanapalle Institute of Technology.
-- 🌱 I’m currently a student co-ordinator for Mits Social Responsibility Club.
-- 👯 I’m looking to collaborate on Data Science & Web Development.
-- 🤔 I’m looking for help for an Internship.
+- 🔭 I’m currently working in Ignitz Solutions.
+- 🌱 I’m working as Machine Learning & Data Engineer.
+- 👯 I’m Open to collaborate on Data Science & ML Projects.
 - 📫 How to reach me: <a href="mailto:bannusrujan2605@gmail.com">bannusrujan2605@gmail.com</a>
 - 🟦  <a href="https://www.linkedin.com/in/harisrujan2605/">Linkedin</a>
 - 📝  <a href="https://harisrujan.github.io/harisrujan-bannu.io/">Portfolio</a>
