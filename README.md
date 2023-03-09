@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ## Talking about Personal Stuffs:
 - 🔭 I’m currently working in Ignitz Solutions.
-- 🌱 I’m working as Machine Learning & Data Engineer.
+- 🌱 I’m working as Engineer.
 - 👯 I’m Open to collaborate on Data Science & ML Projects.
 - 📫 How to reach me: <a href="mailto:bannusrujan2605@gmail.com">bannusrujan2605@gmail.com</a>
 - 🟦  <a href="https://www.linkedin.com/in/harisrujan2605/">Linkedin</a>
-- 📝  <a href="https://harisrujan.github.io/harisrujan-bannu.io/">Portfolio</a>
+<!-- - 📝  <a href="https://harisrujan.github.io/harisrujan-bannu.io/">Portfolio</a> -->
 <!-- - 📝[Resume](link-here) -->
 
 ## Languages and Tools:
