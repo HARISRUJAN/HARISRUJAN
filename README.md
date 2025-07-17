@@ -20,7 +20,7 @@
 
 ## 🛠️ Technical Arsenal
 
-### **Core AI/ML Stack**
+### **AI Frameworks & Tools**
 <p align="left">
 <img src="https://img.shields.io/badge/Ollama-252525?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure OpenAI"/>
