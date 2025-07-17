@@ -14,7 +14,7 @@
 - 🎓 **Currently pursuing** Master's in Data Science at Tampere University, Finland
 - 🤖 **Specializing in** Multi-Agent Systems, LLMs, and AI Product Development
 - 🔬 **Research Focus** on RAG pipelines, prompt engineering, and intelligent automation
-- 🌍 **Experience** in global collaboration and technical leadership through AIESEC
+- 🌍 **Experience** in global collaboration and  leadership through AIESEC
 - 📚 **Passionate about** teaching Python and sharing knowledge with the community
 - 💡 **Open to collaborate** on cutting-edge AI/ML projects and research
 
@@ -91,15 +91,13 @@
 </p>
 
 ---
-
+## 👀 Profile Visitor Counter
 <div align="center">
   <i>✨ "Building AI systems that make a real difference in the world" ✨</i>
 </div>
 
 <div align="center">
   
-  **Visitor Count**
-  
-  <img src="https://profile-counter.glitch.me/HARISRUJAN/count.svg" alt="Visitor Count" />
+ [![GitHub Views](https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=FAC151&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)[2][4][10]
   
 </div>
