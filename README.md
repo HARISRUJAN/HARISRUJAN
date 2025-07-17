@@ -98,6 +98,6 @@
 
 <div align="center">
   
- [![GitHub Views](https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=FAC151&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)[2][4][10]
+ [![GitHub Views](https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=FAC151&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)
   
 </div>
