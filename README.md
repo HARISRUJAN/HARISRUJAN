@@ -91,7 +91,7 @@
 </p>
 
 ---
-## 👀 Profile Visitor Counter
+
 <div align="center">
   <i>✨ "Building AI systems that make a real difference in the world" ✨</i>
 </div>
