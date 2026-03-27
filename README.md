@@ -71,9 +71,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISRUJAN&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🌟 Featured Projects
-
-*Coming Soon! Stay tuned for exciting AI/ML projects and research implementations.*
 
 ## 🤝 Let's Connect
 
