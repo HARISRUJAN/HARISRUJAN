@@ -19,7 +19,7 @@
 - 💡 **Open to collaborate** on cutting-edge AI/ML projects and research
 
 ## 🛠️ Technical Arsenal
-harisrujan.github.io/new_portfolio_2026/ 
+
 ### **AI Frameworks & Tools**
 <p align="left">
 <img src="https://img.shields.io/badge/Ollama-252525?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Ollama"/>
