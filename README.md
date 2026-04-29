@@ -75,6 +75,9 @@
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://harisrujan.github.io/new_portfolio_2026/">
+    <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/harisrujan2605/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
