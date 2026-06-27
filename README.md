@@ -1,102 +1,58 @@
-<div align="center">
-  <h1>👋 Hi, I'm Harisrujan Chinnam</h1>
-  <h3>AI Engineer & Master's Student | Building Intelligent Systems</h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Multi-Agent+Systems+Developer;LLM+%26+NLP+Specialist;Python+%26+Machine+Learning+Expert" alt="Typing SVG" />
-  </p>
-</div>
+```
+$ whoami
+```
 
-<img align="right" alt="Coding GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
+# Harisrujan Chinnam
 
-## 🚀 About Me
-
-- 🎓 **Currently pursuing** Master's in Data Science at Tampere University, Finland
-- 🤖 **Specializing in** Multi-Agent Systems, LLMs, and AI Product Development
-- 🔬 **Research Focus** on RAG pipelines, prompt engineering, and intelligent automation
-- 🌍 **Experience** in global collaboration and  leadership through AIESEC
-- 📚 **Passionate about** teaching Python and sharing knowledge with the community
-- 💡 **Open to collaborate** on cutting-edge AI/ML projects and research
-
-## 🛠️ Technical Arsenal
-
-### **AI Frameworks & Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/Ollama-252525?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure OpenAI"/>
-<img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain (multi-agent, RAG)"/>
-</p>
-
-### **LLM & NLP Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-</p>
-
-### **Development & Deployment**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### **Web Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-## 🎯 What I'm Building
-
-**🤖 Multi-Agent AI Systems** – Intelligent agents using LangChain and RAG pipelines for complex problem-solving
-
-**🔍 NLP & Information Retrieval** – AI tools that extract insights from unstructured data and documents
-
-**⚡ Prompt Engineering** – Optimized, task-specific prompts for high-accuracy AI workflows
-
-**🔧 AI Product Development** – End-to-end AI solutions from research to deployment
-
-**📊 Data Science Projects** – Machine learning models for real-world applications
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARISRUJAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISRUJAN&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://harisrujan.github.io/new_portfolio_2026/">
-    <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harisrujan2605/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bannusrujan2605@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/HARISRUJAN">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+```python
+class Harisrujan:
+    location = "Tampere, Finland"
+    role = "AI Engineer · MSc Data Science"
+    
+    focus = [
+        "multi-agent systems",
+        "RAG pipelines", 
+        "LLM orchestration",
+        "prompt engineering"
+    ]
+    
+    stack = {
+        "languages": ["Python", "TypeScript", "SQL"],
+        "ai_ml": ["LangChain", "Hugging Face", "OpenAI", "Ollama"],
+        "infra": ["AWS", "Docker", "FastAPI", "Azure"],
+        "data": ["PostgreSQL", "Pinecone", "Redis"]
+    }
+    
+    currently = "building intelligent agents that actually ship"
+```
 
 ---
 
-<div align="center">
-  <i>✨ "Building AI systems that make a real difference in the world" ✨</i>
-</div>
+#### `> cat now.md`
 
-<div align="center">
-  
- [![GitHub Views](https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=FAC151&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)
-  
-</div>
+- 🔬 researching multi-agent orchestration patterns  
+- 🛠️ building AI products end-to-end (research → deployment)  
+- 📡 shipping daily — [check the green squares](https://github.com/HARISRUJAN)  
+
+---
+
+#### `> ls projects/`
+
+| project | description | stack |
+|---------|-------------|-------|
+| `multi-agent-systems/` | autonomous agents with LangChain + RAG | Python, LangChain, Pinecone |
+| `nlp-pipelines/` | information extraction from unstructured data | spaCy, Transformers, FastAPI |
+| `ai-products/` | end-to-end AI solutions in production | AWS, Docker, React |
+
+---
+
+#### `> cat links.txt`
+
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](https://harisrujan.github.io/new_portfolio_2026/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisrujan2605/)
+[![Email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:bannusrujan2605@gmail.com)
+
+---
+
+<sub>`$ uptime` — shipping code since 2020 · views: </sub>
+[![](https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=333&label=)](https://github.com/HARISRUJAN)
