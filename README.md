@@ -59,23 +59,6 @@ class Harisrujan:
     philosophy = "ship daily, learn constantly, build in public"
 ```
 
----
-
-### `> cat philosophy.txt`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The best way to predict the future is to build it."       ║
-║                                        — Alan Kay            ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   "Make it work, make it right, make it fast."               ║
-║                                        — Kent Beck           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ---
 
