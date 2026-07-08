@@ -26,7 +26,7 @@
 │   LANGUAGES        Python · TypeScript · SQL · Bash                 │
 │                                                                     │
 │   AI / ML          LangChain · OpenAI · Hugging Face · Ollama       │
-│                    RAG · Multi-Agent · Prompt Engineering            │
+│                    RAG · Multi-Agent · MCP            │
 │                                                                     │
 │   BACKEND          FastAPI · Flask · Node.js · REST · GraphQL       │
 │                                                                     │
@@ -39,35 +39,6 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-### `> build_agents()`
-
-```
-                    ┌──────────────────┐
-                    │   ORCHESTRATOR   │
-                    │   (LangGraph)    │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-     ┌────────────┐  ┌────────────┐  ┌────────────┐
-     │  Research   │  │  Code Gen  │  │  Reviewer  │
-     │   Agent    │  │   Agent    │  │   Agent    │
-     └──────┬─────┘  └──────┬─────┘  └──────┬─────┘
-            │               │               │
-            ▼               ▼               ▼
-     ┌─────────────────────────────────────────────┐
-     │              SHARED MEMORY                   │
-     │         (Vector DB + Context)                │
-     └──────────────────────┬──────────────────────┘
-                            │
-                            ▼
-                    ┌──────────────┐
-                    │   RESPONSE   │
-                    │  (Grounded)  │
-                    └──────────────┘
-```
 
 ---
 
@@ -75,9 +46,9 @@
 
 ```python
 class Harisrujan:
-    location  = "Tampere, Finland"
-    role      = "AI Engineer · MSc Data Science"
-    focus     = "multi-agent systems that actually ship"
+    location  = "Helsinki, Finland"
+    role      = "AI Consultant · MSc Data Science"
+    focus     = "Intelligent systems that work in production 😜"
     
     building  = [
         "autonomous agent orchestration",
