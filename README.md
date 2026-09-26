@@ -1,88 +1,28 @@
-```
-██╗  ██╗ █████╗ ██████╗ ██╗███████╗██████╗ ██╗   ██╗     ██╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██╔══██╗██║██╔════╝██╔══██╗██║   ██║     ██║██╔══██╗████╗  ██║
-███████║███████║██████╔╝██║███████╗██████╔╝██║   ██║     ██║███████║██╔██╗ ██║
-██╔══██║██╔══██║██╔══██╗██║╚════██║██╔══██╗██║   ██║██   ██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██║██║███████║██║  ██║╚██████╔╝╚█████╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Harisrujan
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+AI consultant and data scientist based in Helsinki, Finland.
 
----
+I build practical AI products and internal tools: LLM applications, RAG
+systems, agent workflows, and the APIs and infrastructure that make them
+reliable in production.
 
-### `> toolkit.load()`
+## Focus
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   LANGUAGES        Python · TypeScript · SQL · Bash                 │
-│                                                                     │
-│   AI / ML          LangChain · OpenAI · Hugging Face · Ollama       │
-│                    RAG · Multi-Agent · MCP            │
-│                                                                     │
-│   BACKEND          FastAPI · Flask · Node.js · REST · GraphQL       │
-│                                                                     │
-│   DATA             PostgreSQL · Pinecone · Redis · MongoDB          │
-│                                                                     │
-│   INFRA            AWS (EC2, S3, Lambda) · Docker · Azure · CI/CD   │
-│                                                                     │
-│   FRONTEND         React · Next.js · Tailwind · HTML/CSS/JS         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+- AI product development and applied machine learning
+- Agent orchestration and tool-using systems
+- RAG, search, and data pipelines
+- Backend systems with Python and TypeScript
 
+## Stack
 
----
+Python · TypeScript · SQL · FastAPI · React · Next.js · OpenAI · Hugging Face ·
+PostgreSQL · Docker · AWS · Azure
 
-### `> now()`
+I like simple tools, clear writing, and software that stays useful after the
+demo.
 
-```python
-class Harisrujan:
-    location  = "Helsinki, Finland"
-    role      = "AI Consultant · MSc Data Science"
-    focus     = "Intelligent systems that work in production 😜"
-    
-    building  = [
-        "autonomous agent orchestration",
-        "RAG pipelines for enterprise",
-        "AI-powered dev tools",
-    ]
-    
-    philosophy = "ship daily, learn constantly, build in public"
-```
+## Find me
 
-
----
-
-### `> connect()`
-
-<p align="center">
-  <a href="https://harisrujan.github.io/new_portfolio_2026/">
-    <img src="https://img.shields.io/badge/portfolio-000?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harisrujan2605/">
-    <img src="https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bannusrujan2605@gmail.com">
-    <img src="https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/HARISRUJAN">
-    <img src="https://img.shields.io/badge/github-000?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub><code>$ uptime</code> — shipping code daily since 2020</sub>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=HARISRUJAN&style=flat-square&color=333&label=views"/>
-</p>
+- [Portfolio](https://harisrujan.github.io/new_portfolio_2026/)
+- [LinkedIn](https://www.linkedin.com/in/harisrujan2605/)
+- [Email](mailto:bannusrujan2605@gmail.com)
